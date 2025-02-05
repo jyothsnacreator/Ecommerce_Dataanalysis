@@ -18,3 +18,7 @@ Customer churn (when customers stop buying) is a major challenge in e-commerce. 
 
 ## 📂 Project Structure
 
+📁notebooks/ - Jupyter notebooks for each step
+📁 data/ - Dataset (with download instructions)
+📁 visuals/ - Graphs and visualizations
+📁 reports/ - Final summary and insights
