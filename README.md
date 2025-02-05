@@ -26,4 +26,4 @@ Customer churn (when customers stop buying) is a major challenge in e-commerce. 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   
+   gh repo clone jyothsnacreator/Ecommerce_Dataanalysis
