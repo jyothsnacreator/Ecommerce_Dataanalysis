@@ -38,9 +38,12 @@ Raw data is often messy—missing values, incorrect data types, duplicates, etc.
 4. Remove duplicates to avoid biased analysis.
 
 **How you can try this:**  
-Run the first notebook:
-```bash
+Run the first notebook:```bash
 jupyter notebook notebooks/01_data_cleaning.ipynb
+
+
+
+
 
 Step 2: Exploratory Data Analysis (EDA)
 Why this step matters:
