@@ -114,7 +114,7 @@ The project is structured into four major steps, each detailed in separate Jupyt
    ```bash
    python -m venv venv
    source venv/bin/activate  # Mac/Linux
-   venv\Scriptsactivate   # Windows
+   venv\Scripts\activate   # Windows
    ```
 
 3. **Install required packages**:  
