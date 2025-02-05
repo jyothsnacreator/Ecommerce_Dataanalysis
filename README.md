@@ -22,3 +22,8 @@ Customer churn (when customers stop buying) is a major challenge in e-commerce. 
 -**📁 data/ - Dataset (with download instructions)
 -**📁 visuals/ - Graphs and visualizations
 -**📁 reports/ - Final summary and insights
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   
